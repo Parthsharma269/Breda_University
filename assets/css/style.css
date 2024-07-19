@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+
+.ff_Plus {
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.Bell_Img-m-w {
+    max-width: 23.68px;
+    max-height: 23.68px;
+}
+
+.Man_Img-m-w {
+    max-width: 34.53px;
+    max-height: 34.53px;
+}
+
+.H_BG_Img-m-w {
+    max-width: 100%;
+    max-height: 363px;
+}
+
+.Appy {
+    width: 172px;
+    height: 54px;
+    border-radius: 4px;
+    background-color: #3E8600;
+    padding: 15px 28px 15px 28px;
+}
+
+.border_bottom {
+    width: 100%;
+    border: 1px solid #E0E6F6;
+}
+
+.border_bottom_2 {
+    max-width: 812px;
+    border: 1px solid #E0E6F6;
+}
+
+.Avatar_Img-m-w {
+    max-width: 85px;
+    max-height: 85px;
+}
+
+.Map_Img-m-w {
+    max-width: 288px;
+    max-height: 199.12px;
+}
+
+.Logo-m-w {
+    max-width: 52px;
+    max-height: 52px;
+}
+
+.logo-m-w {
+    max-width: 40px;
+    max-height: 40px;
+}
+
+.Footer_Logo_Img-m-w {
+    max-width: 110px;
+    max-height: 28.49px;
+}
+
+.Footer-logo-m-w {
+    max-width: 101.04px;
+    max-height: 31.91px;
+}
+
+.Footer_Border_Bottom {
+    border: 1px solid #E0E6F6;
+}
+
+.Nav_Box {
+    max-width: 1920px;
+    max-height: 82px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 19px 0px #E2E2EA99;
+}
+
+.Box_1 {
+    height: 502px;
+    padding: 20px;
+    max-width: 338px;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+    border: 1px solid #E0E6F6;
+}
+
+.Box_2 {
+    padding: 16px;
+    max-height: 100%;
+    max-width: 338px;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+    border: 1px solid #E0E6F6;
+}
+
+.show{
+    right: 0  !important;
+}
