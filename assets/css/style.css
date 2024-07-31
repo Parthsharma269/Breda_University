@@ -39,6 +39,13 @@
     padding: 15px 28px 15px 28px;
 }
 
+.Save {
+    width: 113px;
+    height: 54px;
+    border-radius: 4px;
+    background-color: #3E8600;
+}
+
 .border_bottom {
     width: 100%;
     border: 1px solid #E0E6F6;
